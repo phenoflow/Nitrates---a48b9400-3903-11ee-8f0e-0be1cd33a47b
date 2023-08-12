@@ -1,0 +1,162 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/nitrates-tablet---primary.py
+inputModule3:
+  class: File
+  path: python/nitrates-monocedocard---primary.py
+inputModule4:
+  class: File
+  path: python/nitrates-125mg---primary.py
+inputModule5:
+  class: File
+  path: python/nitrates-isordil---primary.py
+inputModule6:
+  class: File
+  path: python/nitrates-patch---primary.py
+inputModule7:
+  class: File
+  path: python/nitrates-600microgram---primary.py
+inputModule8:
+  class: File
+  path: python/nitrates-modifiedrelease---primary.py
+inputModule9:
+  class: File
+  path: python/nitrates-100ml---primary.py
+inputModule10:
+  class: File
+  path: python/nitrates-suscard---primary.py
+inputModule11:
+  class: File
+  path: python/nitrates-sorbitrate---primary.py
+inputModule12:
+  class: File
+  path: python/nitrates-vascardin---primary.py
+inputModule13:
+  class: File
+  path: python/nitrates-capsule---primary.py
+inputModule14:
+  class: File
+  path: python/nitrates-elantan---primary.py
+inputModule15:
+  class: File
+  path: python/nitrates-sustac---primary.py
+inputModule16:
+  class: File
+  path: python/nitrates-imazin---primary.py
+inputModule17:
+  class: File
+  path: python/cibral-nitrates---primary.py
+inputModule18:
+  class: File
+  path: python/nitrates-monit---primary.py
+inputModule19:
+  class: File
+  path: python/nitrates-isodur---primary.py
+inputModule20:
+  class: File
+  path: python/nitrates-starter---primary.py
+inputModule21:
+  class: File
+  path: python/nitrates-eumon---primary.py
+inputModule22:
+  class: File
+  path: python/nitrates-modisal---primary.py
+inputModule23:
+  class: File
+  path: python/nitrates-zemon---primary.py
+inputModule24:
+  class: File
+  path: python/nitrates-tetranitrate---primary.py
+inputModule25:
+  class: File
+  path: python/nitrates-isoket---primary.py
+inputModule26:
+  class: File
+  path: python/nitrates-dinitrate---primary.py
+inputModule27:
+  class: File
+  path: python/nitrates-trintek---primary.py
+inputModule28:
+  class: File
+  path: python/nitrates-continus---primary.py
+inputModule29:
+  class: File
+  path: python/nitrates-angeze---primary.py
+inputModule30:
+  class: File
+  path: python/nitrates-infusion---primary.py
+inputModule31:
+  class: File
+  path: python/nitrates-mononitrate---primary.py
+inputModule32:
+  class: File
+  path: python/nitrates-sonislo---primary.py
+inputModule33:
+  class: File
+  path: python/nitrates-isotard---primary.py
+inputModule34:
+  class: File
+  path: python/aspirin-nitrates---primary.py
+inputModule35:
+  class: File
+  path: python/nitrates-monosorb---primary.py
+inputModule36:
+  class: File
+  path: python/nitrates-dynamin---primary.py
+inputModule37:
+  class: File
+  path: python/transdermal-nitrates---primary.py
+inputModule38:
+  class: File
+  path: python/nitrates-angitate---primary.py
+inputModule39:
+  class: File
+  path: python/nitrates-transidermnitro---primary.py
+inputModule40:
+  class: File
+  path: python/nitrates-deponit---primary.py
+inputModule41:
+  class: File
+  path: python/nitrates-retard---primary.py
+inputModule42:
+  class: File
+  path: python/nitrates-nitrocine---primary.py
+inputModule43:
+  class: File
+  path: python/nitrates-concentrate---primary.py
+inputModule44:
+  class: File
+  path: python/nitrates-ointment---primary.py
+inputModule45:
+  class: File
+  path: python/nitrates-solution---primary.py
+inputModule46:
+  class: File
+  path: python/nitrates-healthcare---primary.py
+inputModule47:
+  class: File
+  path: python/nitrates-percutol---primary.py
+inputModule48:
+  class: File
+  path: python/nitrates-imdur---primary.py
+inputModule49:
+  class: File
+  path: python/nitrates-company---primary.py
+inputModule50:
+  class: File
+  path: python/nitrates-pharmaceut---primary.py
+inputModule51:
+  class: File
+  path: python/nitrates-sugar---primary.py
+inputModule52:
+  class: File
+  path: python/nitrates-monomax---primary.py
+inputModule53:
+  class: File
+  path: python/rectal-nitrates---primary.py
+inputModule54:
+  class: File
+  path: python/output-cases.py
